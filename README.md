@@ -38,7 +38,7 @@ npm install
 # 4. Run the development server
 npm run dev
 
-
+```
 ## Technologies Used
 
 This project is built with:
