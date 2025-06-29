@@ -1,12 +1,14 @@
 # VaultSpark
-**Project Description**
+## Project Description 
+
 VAULT SPARK is a comprehensive, AI-enhanced DeFi vault system leveraging BlockDAG for secure, smart, and rewarding digital asset management with intuitive Metamask integration.
-**How to run it**
+
+## Execution
 
 If you want to work locally using your own IDE, you can clone this repo and and can start working on it.
 The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
-Follow these steps:
+**Follow these steps:**
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
@@ -22,7 +24,7 @@ npm i
 npm run dev
 ```
 
-## What technologies are used for this project?
+## Technologies Used
 
 This project is built with:
 
